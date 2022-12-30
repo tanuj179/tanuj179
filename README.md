@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanuj179&label=Profile%20views&color=0e75b6&style=flat" alt="tanuj179" /> </p>
 
-- 🔭 I’m currently Student **s**
+- 🔭 I’m currently Student 
 
 - 🌱 I’m currently learning Web Development 
 
