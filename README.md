@@ -2,9 +2,9 @@
 
 ###
 
-<h6 align="left">A code-slinging, coffee-fueled developer with a Master's in Computer Applications .
+<h4 align="left">A code-slinging, coffee-fueled developer with a Master's in Computer Applications .
 I'm passionate about building awesome things across the web (HTML, CSS, JavaScript) and the back-end (Python, Java - Spring included )
-But that's not all! I'm constantly leveling up my skills in big data tools, databases (MySQL, MongoDB), and AI/ML . Cloud computing? Coming in hot! ☁️</h6>
+But that's not all! I'm constantly leveling up my skills in big data tools, databases (MySQL, MongoDB), and AI/ML . Cloud computing? Coming in hot! ☁️</h4>
 
 ###
 ###
