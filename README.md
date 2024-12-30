@@ -56,8 +56,6 @@ But that's not all! I'm constantly leveling up my skills in big data tools, data
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
 ###
 
 <div align="left">
